@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/metalwmz/bookstore.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ScrappyZhang/ecommerce_website_development.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\pyst" />
